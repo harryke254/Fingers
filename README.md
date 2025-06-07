@@ -12,10 +12,10 @@
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%234d8c33ff&center=true&vCenter=true&lines=SUCKY HACKER" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%234d8c33ff&center=true&vCenter=true&lines=FINGERS HACKER" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=SUCKY+HACKER+PRIMIUM;+VPS+MANAGER+UPDATED+SCRIPT;HAPPY+TUNNELING;REMEMBER+WE+ONLY;PROTECT+WHAT'S+OURS;WELCOME+ABOARD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=FINGERS+HACKER+PRIMIUM;+VPS+MANAGER+UPDATED+SCRIPT;HAPPY+TUNNELING;REMEMBER+WE+ONLY;PROTECT+WHAT'S+OURS;WELCOME+ABOARD)](https://git.io/typing-svg)
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/MUMIT-404-CYBER"><img width=550 src="https://github-profile-trophy.vercel.app/?username=MUMIT-404-CYBER&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
@@ -28,13 +28,13 @@
 
 ### INSTALL SCRIPT 
 ```
-apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/harryke254/Sucky/main/genz.sh && chmod +x genz.sh && ./genz.sh
+apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/harryke254/Fingers/main/genz.sh && chmod +x genz.sh && ./genz.sh
 
 ```
 
 ### UPDATED SCRIPT
 ```
-wget https://raw.githubusercontent.com/harryke254/Sucky/main/update.sh && chmod +x update.sh && ./update.sh
+wget https://raw.githubusercontent.com/harryke254/Fingers/main/update.sh && chmod +x update.sh && ./update.sh
 
 ```
 ### TESTED ON OS 

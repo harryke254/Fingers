@@ -90,7 +90,7 @@ gem install lolcat
 apt install wondershaper -y
 clear
 # REPO    
-    REPO="https://raw.githubusercontent.com/harryke254/Sucky/main/"
+    REPO="https://raw.githubusercontent.com/harryke254/Fingers/main/"
 
 ####
 start=$(date +%s)
@@ -277,7 +277,7 @@ restart_system(){
 MYIP=$(curl -sS ipv4.icanhazip.com)
 echo -e "\e[32mloading...\e[0m" 
 clear
-izinsc="https://raw.githubusercontent.com/harryke254/Sucky/main/keygen"
+izinsc="https://raw.githubusercontent.com/harryke254/Fingers/main/keygen"
 # USERNAME
 rm -f /usr/bin/user
 username=$(curl $izinsc | grep $MYIP | awk '{print $2}')
